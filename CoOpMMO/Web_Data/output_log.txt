@@ -1,0 +1,18 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(TM) Pro Graphics 5200 (ID=0xd26)
+    Vendor:   Intel
+    VRAM:     32 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gilead Cosman\Desktop\Web_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gilead Cosman\Desktop\Web_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gilead Cosman\Desktop\Web_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gilead Cosman\Desktop\Web_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gilead Cosman\Desktop\Web_Data\Managed\SmartFox2X.dll (this message is harmless)
+Loading C:\Users\Gilead Cosman\Desktop\Web_Data\Managed\SmartFox2X.dll into Unity Child Domain
+- Completed reload, in  0.063 seconds
+desktop: 2880x1800 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
